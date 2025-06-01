@@ -1,16 +1,30 @@
-## Hi there 👋
+### 👋 Hello! I'm Shreen Pandey
 
-<!--
-**shreenn/shreenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on improving my coding skills!
+- 🌱 I’m learning C++, Python, and Web Development
+- 💬 Ask me about DSA, HTML/CSS, or GitHub
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
+
+---
+
+### 📊 GitHub Stats
+
+![Divyanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshijain&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshijain&layout=compact&theme=radical)
+
+<!-- Replace divyanshijain with your actual username -->
+
+---
+
+### ✨ Fun Fact
+⚡ You gotta let’s go! 🚀

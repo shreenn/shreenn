@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Stats
 
-![Divyanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshijain&show_icons=true&theme=radical)
+![Shreen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshijain&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshijain&layout=compact&theme=radical)
 
 <!-- Replace divyanshijain with your actual username -->

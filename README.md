@@ -19,12 +19,15 @@
 
 ### 📊 GitHub Stats
 
-![Shreen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshijain&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshijain&layout=compact&theme=radical)
+![Shreen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreenn&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreenn&layout=compact&theme=radical)
 
-<!-- Replace divyanshijain with your actual username -->
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreenn&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreenn&layout=compact&theme=radical)
+
 
 ### ✨ Fun Fact
 ⚡ You gotta let’s go! 🚀

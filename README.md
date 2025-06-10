@@ -27,6 +27,3 @@ I'm just trying to figure things out one bug at a time. 🐛⚔️
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreenn&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreenn&layout=compact&theme=radical)
 
-
-### ✨ Fun Fact
-⚡ You gotta let’s go! 🚀
